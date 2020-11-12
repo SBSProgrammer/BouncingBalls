@@ -82,7 +82,8 @@ int main(int argc, char** argv)
 
 		if (kbhit())
 		{
-			running = false;
+			char ch = getch();
+			if (ch == 27) running = false;
 		}
 	}
 	_setcolor(oldColor);
