@@ -5,7 +5,7 @@ Bouncing Pong balls on the screen in C++
 Make sure you have DOSBox installed and also have OpenWatcom installed.
 
 # Automatic compilation
-Just run BUILD.BAT.
+Just run BUILD.BAT. (Yes, I could've just used makefiles but I still don't know how to get them working.)
 
 # Manual compilation
 Run these commands:
