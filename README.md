@@ -19,4 +19,4 @@ You can either run ball.exe without any command line arguments or specify how ma
 ```
 ball 15
 ```
-Note: Some large numbers may cause the program to crash as soon as it starts up. The largest numbe of balls I've tested so far that works is 128.
+Note: Some large numbers may cause the program to crash as soon as it starts up. The largest numbe of balls I've tested so far that works is 128, though it may go higher than that.
